@@ -1,0 +1,2 @@
+# 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
+https://github.com/settings/personal-access-tokens/new
